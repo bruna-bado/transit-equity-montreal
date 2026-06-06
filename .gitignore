@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Data — too large for GitHub; download instructions are in the notebook
+data/raw/
+data/processed/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
